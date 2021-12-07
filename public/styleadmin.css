@@ -1,0 +1,85 @@
+/* ADMIN */
+/* ADMIN */
+/* ADMIN */
+
+/* background_edituser */
+#background_edituser{
+    margin-top: 20px;
+    background: rgb(214, 205, 205);
+    background-image: url('backgroundedituser.jfif');
+}
+#background_edituser h1{
+    color: red;
+}
+
+.form-group input{
+    width: 100%;
+}
+
+#show_user{
+    
+    background-color: rgb(211, 216, 224);
+}
+#show_user span{
+    margin-left: 10px;
+}
+
+
+
+
+
+
+/* style Body phần tabpane */
+ a.nav-link{
+    border-radius: 15px;
+    margin-left: 10px;
+    color:white;
+    background: rgb(125, 27, 206);
+    text-decoration: none;
+
+}
+ a.nav-link:hover{
+    color: white;
+    background: rgb(243, 142, 10);
+}
+
+span.nav-link{
+    border-radius: 20px;
+    margin-left: 10px;
+    color:white;
+    background: rgb(206, 182, 231);
+    text-decoration: none
+
+}
+span.nav-link:hover{
+    color: white;
+    background: rgb(243, 142, 10);
+}
+
+/* home_user */
+#home_user{
+    margin-top: 10px;
+}
+#home_user a.nav-link:hover{
+    background-color: coral;
+}
+#btn_user{
+    margin-left: 5px;
+}
+.fa-search{
+    border: none;
+}
+.fa{
+    border: none;
+}
+
+
+
+
+
+
+
+
+
+
+

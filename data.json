@@ -1,0 +1,222 @@
+{
+  "order": [
+    {
+      "user": [
+        "kylequang"
+      ],
+      "nameUser": "",
+      "create": "2/6/2021",
+      "totalOrder": 1662,
+      "address": "",
+      "phone": "",
+      "listItem": [
+        {
+          "id": "1",
+          "id_product": "3",
+          "type": "banchay",
+          "name": "Bánh canh cá lóc",
+          "image": "images/monannb4.jpg",
+          "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+          "price": "87.00",
+          "quantity": 4,
+          "cost": 348
+        },
+        {
+          "id": "3",
+          "id_product": "2",
+          "type": "banchay",
+          "name": "Chả cá",
+          "image": "images/monannb2.jpg",
+          "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+          "price": "657.00",
+          "quantity": 2,
+          "cost": 1314
+        }
+      ],
+      "status": "Chờ xác nhận",
+      "check": true,
+      "id": 1
+    }
+  ],
+  
+  "users": [
+    {
+      "id": "1",
+      "fullname": "lê quang kỳ",
+      "nameaccount": "kylequang",
+      "password": "123",
+      "email": "ky.le22@student.passerellesnumeriques.org",
+      "sdt": "0374448052",
+      "address": "Đà Nẵng",
+      "status": "unlock",
+      "checkstatus": true
+    },
+    {
+      "id": "2",
+      "fullname": "Hồ Thị Khưa",
+      "nameaccount": "hothikhua",
+      "password": "123",
+      "email": "khua.ho2222@student.passerellesnumeriques.org",
+      "sdt": "0358079424",
+      "address": "Đà Nẵng",
+      "status": "unlock",
+      "checkstatus": true
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "name": "Cua hoàng đế",
+      "price": "184.00",
+      "price_sell": "119.00",
+      "description": "món ngon nhà làm",
+      "type": "banchay",
+      "image": "images/monannb1.jpg",
+      "status": "còn hàng",
+      "checkstatus": true
+    },
+    {
+      "id": "2",
+      "name": "Chả cá",
+      "price": "657.00",
+      "price_sell": "809.00",
+      "description": "Món ngon nhà làm",
+      "type": "banchay",
+      "image": "images/monannb2.jpg",
+      "status": "còn hàng",
+      "checkstatus": true
+    },
+    {
+      "id": "3",
+      "name": "Bánh canh cá lóc",
+      "price": "87.00",
+      "price_sell": "556.00",
+      "description": "Món ngon nhà làm",
+      "type": "banchay",
+      "image": "images/monannb4.jpg",
+      "status": "còn hàng",
+      "checkstatus": true
+    },
+    {
+      "id": "4",
+      "name": "Bún thịt nướng",
+      "price": "690.00",
+      "price_sell": "870.00",
+      "description": "Món ngon nhà làm",
+      "type": "banchay",
+      "image": "images/monannb5.jpg",
+      "status": "còn hàng",
+      "checkstatus": true
+    },
+    {
+      "id": "5",
+      "name": "Socola Milk-tea",
+      "price": "184.00",
+      "price_sell": "119.00",
+      "description": "món ngon nhà làm",
+      "type": "milktea",
+      "image": "images/drink/douong6.jpg",
+      "status": "còn hàng",
+      "checkstatus": true
+    },
+    {
+      "id": "6",
+      "name": "Ca Cao",
+      "price": "657.00",
+      "price_sell": "809.00",
+      "description": "Món ngon nhà làm",
+      "type": "milktea",
+      "image": "images/drink/douong9.jpg",
+      "status": "còn hàng",
+      "checkstatus": true
+    },
+    {
+      "id": "7",
+      "name": "Sinh tố bơ",
+      "price": "87.00",
+      "price_sell": "556.00",
+      "description": "Món ngon nhà làm",
+      "type": "milktea",
+      "image": "images/drink/douong3.jpg",
+      "status": "còn hàng",
+      "checkstatus": true
+    },
+    {
+      "id": "8",
+      "name": "Sinh tố dưa hấu",
+      "price": "690.00",
+      "price_sell": "870.00",
+      "description": "Món ngon nhà làm",
+      "type": "milktea",
+      "image": "images/drink/douong7.jpg",
+      "status": "còn hàng",
+      "checkstatus": true
+    },
+    {
+      "id": "9",
+      "name": "Bánh Kem Loại 1",
+      "price": "87.00",
+      "price_sell": "556.00",
+      "description": "Món ngon nhà làm",
+      "type": "cake",
+      "image": "images/cake/banhkem1.webp",
+      "status": "còn hàng",
+      "checkstatus": true
+    },
+    {
+      "id": "10",
+      "name": "Bánh Kem Loại 2",
+      "price": "690.00",
+      "price_sell": "870.00",
+      "description": "Món ngon nhà làm",
+      "type": "cake",
+      "image": "images/cake/banhkem2.webp",
+      "status": "còn hàng",
+      "checkstatus": true
+    },
+    {
+      "id": "11",
+      "name": "Bánh Kem Loại 3",
+      "price": "690.00",
+      "price_sell": "870.00",
+      "description": "Món ngon nhà làm",
+      "type": "cake",
+      "image": "images/cake/banhkem3.webp",
+      "status": "còn hàng",
+      "checkstatus": true
+    },
+    {
+      "id": "10",
+      "name": "Chả",
+      "price": "690.00",
+      "price_sell": "870.00",
+      "description": "Món ngon nhà làm",
+      "type": "fastfood",
+      "image": "images/fastfood/anvat3.jpg",
+      "status": "còn hàng",
+      "checkstatus": true
+    },
+    {
+      "id": "11",
+      "name": "Bánh tráng trộn",
+      "price": "690.00",
+      "price_sell": "0",
+      "description": "Món ngon nhà làm",
+      "type": "fastfood",
+      "image": "images/fastfood/anvat4.jpg",
+      "status": "còn hàng",
+      "checkstatus": true
+    },
+    {
+      "id": "12",
+      "name": "Ăn Vặt ốc",
+      "price": "690.00",
+      "price_sell": "870.00",
+      "description": "Món ngon nhà làm",
+      "type": "fastfood",
+      "image": "images/fastfood/anvat7.jpg",
+      "status": "còn hàng",
+      "checkstatus": true
+    }
+  ]
+}

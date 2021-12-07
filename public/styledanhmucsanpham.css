@@ -1,0 +1,19 @@
+#danhmucsanpham{
+    background-image: url('images/backgrounddmsp.jpg');
+}
+#danhmucsanpham h4{
+    text-align: center;
+    color: white;
+    font-weight: 100;   
+}
+
+#tabdanhmucsanpham>li>a.navlink{
+    background-color: rgb(165, 209, 22);
+}
+#tabdanhmucsanpham a:hover{
+    background-color: rgb(247, 151, 8);
+}
+
+#img_milktea{
+    margin-bottom: 40px;
+}
